@@ -1,9 +1,9 @@
 
-# **Note Jotter**
+# **Professional Readme Generator**
 
 ## **Description**
 
-This app allows you to easily write and save notes
+This app allows you to create a readme.md 
 
 ## **Table of Contents**
 
@@ -15,11 +15,19 @@ This app allows you to easily write and save notes
 
 ## **Installation**
 
-Run 'npm start' within the terminal and localhost:3001 will appear in the terminal
+Run 
+``
+npm i
+``
+to install all necessary packages
   
 ## **Usage**
 
-When on the initial page click 'Get Started' and this will take you to your next page where you are able to add and save notes with a title and text written. Without one or the other it will not save 
+Run 
+``
+node index
+``
+to begin answering questions to fill out your sample readme.md
 
 ## Demonstration
 
