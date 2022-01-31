@@ -39,11 +39,11 @@ ${data.description}
 
 ## **Table of Contents**
 
-- [Installation]
-- [Usage]
-- [Contributing]
-- [Tests]
-- [Questions]
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## **Installation**
 
@@ -67,7 +67,7 @@ ${renderLicenseBadge(data.license)}
 
 ## **Questions**
 
-${data.github}
+${data.github}(https://github.com/${data.github})
 
 ${data.email}
 
